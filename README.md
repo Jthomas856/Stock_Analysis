@@ -10,6 +10,7 @@ For this challenge we are refactoring an already established VBA macro that loop
 
 Stock market data was analyzed for 2017 and 2018, with our code outputting total volume and return percentage for each ticker (ie each stock). The original code was refactored to loop through the stock data once and collect all of the information efficiently. The code was already set up to run the data based on the year (2017 or 2018) and formatted to output the data on the “All Stocks Analysis” sheet. Header rows were established, and an array of tickers (each stock) were formatted within the code so the focus was on ensuring the for loops were refactored. Below is the refactored code with descriptions included for each step. 
 
+Stock_Analysis Refactored.vb
 
 
 
