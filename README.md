@@ -33,7 +33,7 @@ Refactoring is an important step in the coding process as it can improve the cod
 
 Our goal for refactoring our stock analysis code was to reduce the amount of time it takes for the macro to run. We were successful in refactoring the code to produce a shorter run time. Both the original code and the refactored code produced the same results and were simple to understand, but having a faster code will allow us to quickly analyze a larger data set. We were able to produce a simpler and more effective code by looping through the data once to get our outputs instead of the nested loops that were in the original code. Below are screen shots of the time run for the original code and the refactored code.
 
-2017 and 2018 Original Code
+### 2017 and 2018 Original Code
 
 
 <img width="262" alt="2017 Run Time" src="https://user-images.githubusercontent.com/89098766/133675816-da88e14d-c283-4de0-b7bf-839595529bdd.png">
@@ -42,7 +42,7 @@ Our goal for refactoring our stock analysis code was to reduce the amount of tim
 
 
 
-2017 and 2018 Refactored Code
+### 2017 and 2018 Refactored Code
 
 
 <img width="264" alt="2017 Refactored" src="https://user-images.githubusercontent.com/89098766/133676126-8a2ec014-e3f9-40f9-a610-104c06eedb2b.png">
@@ -51,7 +51,7 @@ Our goal for refactoring our stock analysis code was to reduce the amount of tim
 
 
 
-Output for both the original and refactored codes.
+### Output for both the original and refactored codes.
 
 
 <img width="245" alt="All Stocks Analysis 2017" src="https://user-images.githubusercontent.com/89098766/133676396-4e7975a6-1758-49e8-a49a-fa5a5fb5cf4c.png">
