@@ -35,6 +35,7 @@ Our goal for refactoring our stock analysis code was to reduce the amount of tim
 
 <img width="258" alt="2018 Refactored" src="https://user-images.githubusercontent.com/89098766/133676143-62de8b8f-294b-498b-9010-7f70e522323a.png">
 
+
 Output for both the original and refactored codes.
 <img width="245" alt="All Stocks Analysis 2017" src="https://user-images.githubusercontent.com/89098766/133676396-4e7975a6-1758-49e8-a49a-fa5a5fb5cf4c.png">
 
